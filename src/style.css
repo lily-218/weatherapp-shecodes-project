@@ -7,9 +7,51 @@ body {
 }
 .weather-app {
   background-color: rgba(255, 255, 255, 0.708);
-  width: 600px;
+  width: 700px;
   display: block;
   margin: 0 auto;
   margin-top: 40px;
   border-radius: 8px;
+  box-shadow: -12px 10px 20px rgba(0, 0, 0, 0.2);
+}
+.search-bar {
+  padding: 30px;
+  padding-top: 50px;
+  display: block;
+  text-align: center;
+}
+.search-input {
+  font-size: 18px;
+  font-family: "Quicksand", sans-serif;
+  width: 80%;
+  border: none;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+}
+.search-button {
+  font-size: 18px;
+  font-family: "Quicksand", sans-serif;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  background-color: #81bdc4;
+  color: #fff;
+}
+.weather-data {
+  padding: 30px 50px;
+}
+.weather-city {
+  font-size: 50px;
+  margin: 0px;
+}
+footer {
+  font-size: 13px;
+  padding: 20px;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: #ada9df;
+  font-weight: bold;
 }
