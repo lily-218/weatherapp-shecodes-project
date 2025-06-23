@@ -28,6 +28,7 @@ body {
   padding: 10px;
   border: none;
   border-radius: 4px;
+  color: rgba(0, 0, 0, 0.557);
 }
 .search-button {
   font-size: 18px;
@@ -41,6 +42,7 @@ body {
 .weather-city {
   font-size: 50px;
   margin: 0px;
+  color: rgba(0, 0, 0, 0.606);
 }
 .weather-data {
   display: flex;
@@ -53,7 +55,7 @@ p {
   margin-top: 5px;
 }
 strong {
-  color: #ea99ab;
+  color: #ada9df;
 }
 
 .weather-temp-container {
@@ -80,6 +82,6 @@ footer {
 }
 a {
   text-decoration: none;
-  color: #ada9df;
+  color: #ea99ab;
   font-weight: bold;
 }
