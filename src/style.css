@@ -10,8 +10,8 @@ body {
   width: 600px;
   display: block;
   margin: 0 auto;
-  margin-top: 40px;
-  border-radius: 8px;
+  margin-top: 90px;
+  border-radius: 20px;
   box-shadow: -12px 10px 20px rgba(0, 0, 0, 0.2);
 }
 .search-bar {
@@ -35,7 +35,7 @@ body {
   font-family: "Quicksand", sans-serif;
   padding: 10px;
   border: none;
-  border-radius: 4px;
+  border-radius: 15px;
   background-color: #81bdc4;
   color: #fff;
 }
@@ -55,7 +55,7 @@ p {
   margin-top: 5px;
 }
 strong {
-  color: #ada9df;
+  color: #ea99ab;
 }
 
 .weather-temp-container {
@@ -74,6 +74,7 @@ strong {
 .temp-unit {
   font-size: 24px;
   margin-top: 17px;
+  font-weight: bold;
 }
 footer {
   font-size: 11px;
@@ -82,6 +83,6 @@ footer {
 }
 a {
   text-decoration: none;
-  color: #ea99ab;
+  color: #ada9df;
   font-weight: bold;
 }
