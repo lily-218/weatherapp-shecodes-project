@@ -62,9 +62,9 @@ strong {
   display: flex;
   margin: 0;
 }
-.weather-temp-icon {
-  font-size: 70px;
-  margin-right: 18px;
+.weather-app-icon {
+  width: 100px;
+  margin-right: 13px;
   margin-top: 12px;
 }
 .weather-temp-value {
