@@ -40,7 +40,7 @@ body {
   color: #fff;
 }
 .weather-city {
-  font-size: 50px;
+  font-size: 40px;
   margin: 0px;
   color: rgba(0, 0, 0, 0.606);
 }
@@ -63,13 +63,14 @@ strong {
   margin: 0;
 }
 .weather-app-icon {
-  width: 100px;
-  margin-right: 13px;
-  margin-top: 12px;
+  width: 120px;
+  margin-right: -8px;
+  margin-top: -18px;
 }
 .weather-temp-value {
-  font-size: 90px;
+  font-size: 88px;
   font-weight: bold;
+  line-height: 1;
 }
 .temp-unit {
   font-size: 24px;
